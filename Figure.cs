@@ -25,27 +25,27 @@ namespace OOP1
         private int y1;
         private int y2;
         private String figureName;
-        public String getFigureName()
+        private String getFigureName()
         {
             return figureName;
         }
         //static
-        public double getX1()
+        private double getX1()
         {
             return x1;
         }
 
-        public double getX2()
+        private double getX2()
         {
             return x2;
         }
 
-        public double getY1()
+        private double getY1()
         {
             return y1;
         }
 
-        public double getY2()
+        private double getY2()
         {
             return y2;
         }
