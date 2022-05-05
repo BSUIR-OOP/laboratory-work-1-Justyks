@@ -18,7 +18,6 @@ namespace OOP1
         {
             base.Draw();
 
-
         }
     }
 }

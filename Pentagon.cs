@@ -14,8 +14,6 @@ namespace OOP1
         public override void Draw()
         {
             base.Draw();
-
-
         }
     }
 }

@@ -10,15 +10,7 @@ namespace OOP1
 {
     public class Figure
     {
-        public static ArrayList spisok = new ArrayList
-        {
-            new Trapezium(4,5,2,7),
-            new Pentagon(15,4,12,5),
-            new Rhombus(8,9,10,11),
-            new Square(12,13,14,15),
-            new Triangle(16,17,18,19),
-            new Rectangle(17,18,19,20)
-        };
+       
 
         private int x1;
         private int x2;
@@ -59,9 +51,6 @@ namespace OOP1
             this.figureName = GetType().FullName;
             
         }
-
-
-
 
         public virtual void Draw()
         {

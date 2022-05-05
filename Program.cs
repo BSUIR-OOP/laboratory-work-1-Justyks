@@ -8,7 +8,7 @@ namespace OOP1
            
         {
            
-            foreach (Figure tempFig in Figure.spisok)
+            foreach (Figure tempFig in FigureList.list)
             {
                 tempFig.Draw();
             }
