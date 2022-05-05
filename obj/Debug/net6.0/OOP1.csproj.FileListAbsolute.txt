@@ -1,0 +1,15 @@
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\bin\Debug\net6.0\OOP1.exe
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\bin\Debug\net6.0\OOP1.deps.json
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\bin\Debug\net6.0\OOP1.runtimeconfig.json
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\bin\Debug\net6.0\OOP1.dll
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\bin\Debug\net6.0\ref\OOP1.dll
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\bin\Debug\net6.0\OOP1.pdb
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\obj\Debug\net6.0\OOP1.csproj.AssemblyReference.cache
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\obj\Debug\net6.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\obj\Debug\net6.0\OOP1.AssemblyInfoInputs.cache
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\obj\Debug\net6.0\OOP1.AssemblyInfo.cs
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\obj\Debug\net6.0\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\obj\Debug\net6.0\OOP1.dll
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\obj\Debug\net6.0\ref\OOP1.dll
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\obj\Debug\net6.0\OOP1.pdb
+C:\Users\ilyad\Desktop\laboratory-work-1-Justyks\obj\Debug\net6.0\OOP1.genruntimeconfig.cache
